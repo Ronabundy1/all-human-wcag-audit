@@ -10,7 +10,7 @@ Welke website heb je getest? Beschrijf de website en upload een screenshot.
 
 Toon een screenshot van het Lighthouse Accessibility testresultaat.
 
-Schrijf een samenvatting van de testbevindingen.
+https://github.com/Ronabundy1/all-human-wcag-audit.wiki.git
 
 ## Licentie
 
