@@ -2,7 +2,7 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+https://github.com/Ronabundy1/all-human-wcag-audit/wiki
 
 ## Titel Website
 
