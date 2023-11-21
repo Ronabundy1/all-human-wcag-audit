@@ -8,9 +8,16 @@ https://github.com/Ronabundy1/all-human-wcag-audit/wiki
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
+<img width="1088" alt="wcag website screenshot" src="https://github.com/Ronabundy1/all-human-wcag-audit/assets/118179932/5f6bd53f-9f7c-4d02-8208-3f80bab84386">
+
+Ik heb de website https://www.sprintersports.com/nl getest.
+
+
+
 Toon een screenshot van het Lighthouse Accessibility testresultaat.
 
-https://github.com/Ronabundy1/all-human-wcag-audit/wiki
+<img width="378" alt="Schermafbeelding 2023-10-20 021109 score" src="https://github.com/Ronabundy1/all-human-wcag-audit/assets/118179932/bdba7cf7-a411-456a-b942-148890b72632">
+
 
 ## Licentie
 
